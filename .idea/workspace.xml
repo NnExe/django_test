@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80cce093-8b68-4f1e-8d5f-4b080cafb36c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/firstproject/main/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstproject/main/templates/main/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstproject/main/templates/main/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstproject/firstproject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/firstproject/firstproject/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstproject/firstproject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/firstproject/firstproject/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstproject/main/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/firstproject/main/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstproject/main/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/firstproject/main/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +48,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="27qKlShK3wfZEWxRB0iXlqONzui" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -56,7 +59,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="restructured.text.topic" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -88,7 +91,21 @@
       <option name="project" value="LOCAL" />
       <updated>1650042939945</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add main">
+      <created>1650057280277</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1650057280277</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add main">
+      <created>1650057319235</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1650057319235</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -105,6 +122,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="remove old" />
     <MESSAGE value="new project in django" />
-    <option name="LAST_COMMIT_MESSAGE" value="new project in django" />
+    <MESSAGE value="add main" />
+    <option name="LAST_COMMIT_MESSAGE" value="add main" />
   </component>
 </project>
