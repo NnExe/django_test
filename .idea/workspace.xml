@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80cce093-8b68-4f1e-8d5f-4b080cafb36c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/firstproject/main/templates/main/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstproject/main/static/main/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstproject/main/static/main/img/img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstproject/main/static/main/img/img1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstproject/main/templates/main/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/firstproject/main/templates/main/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstproject/firstproject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/firstproject/firstproject/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstproject/firstproject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/firstproject/firstproject/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstproject/main/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/firstproject/main/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstproject/main/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/firstproject/main/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/firstproject/main/templates/main/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/firstproject/main/templates/main/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstproject/main/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/firstproject/main/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,11 +62,19 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="restructured.text.topic" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Dev\django_test\firstproject" />
+      <recent name="D:\Dev\django_test\firstproject\main\static\main\img" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -113,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650058754932</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add templates">
+      <created>1650060385033</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1650060385033</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
